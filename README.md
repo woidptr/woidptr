@@ -57,8 +57,7 @@ I am a software developer who loves deep diving into the complex topics and work
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=woidptr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woidptr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woidptr&layout=compact&theme=transparent" />
 </div>
 
 ---
