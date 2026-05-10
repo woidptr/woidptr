@@ -17,8 +17,6 @@
 # Hi there 👋
 **Systems Programmer | C/C++ Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Compiling+code...;Debugging+segfaults...;Optimizing+for+performance...;Staying+close+to+the+metal.)](https://git.io/typing-svg)
-
 </div>
 
 ---
